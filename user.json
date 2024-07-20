@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "nome": "luis",
+      "email": "luisin@gmail.com",
+      "senha": "9824983",
+      "data de registro": "2019/09/09",
+      "perfil": {
+        "nome de usuario": "jtapef",
+        "bio": "não aguneto mais",
+        "imagem": ""
+      }
+    },
+    {
+      "id": 2,
+      "nome": "Kleiton",
+      "email": "Kleiton@gmail.com",
+      "senha": "8432432492",
+      "data de registro": "2010/10/10",
+      "perfil": {
+        "nome de usuario": "kleitonzl",
+        "bio": "nos ajude",
+        "imagem": ""
+      }
+    },
+    {
+        "id": 3,
+        "nome": "fillipi",
+        "email": "fillipi@gmail.com",
+        "senha": "6969696969",
+        "data de registro": "2011/11/11",
+        "perfil": {
+          "nome de usuario": "filipin",
+          "bio": "so queria uma ferias",
+          "imagem": ""
+        }
+    }
+  ]
